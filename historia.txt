@@ -2,13 +2,4 @@ Mi nombre es Leon Stiven.
 
 Tengo 28 años, estoy estudiando Git.
 
-Me hago viejo
-
-Ayudame a llenar este cuestionario: Ten cuidado con git merge
-
-Nombre:Leon Stiven Zapata David
-Edad: 27 años
-Municipio: Dabeiba
-Profesión: Matemático
-Anime: Kimetsu no Yaiba
-Novia: Yessica Estrada
+Master 1
